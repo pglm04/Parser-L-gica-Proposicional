@@ -1,0 +1,6 @@
+5
+(\neg 1a)
+(\vee true false)
+(\rightarrow (\wedge 2b 3c) (\neg 4d))
+1a
+(\leftrightarrow (\neg true) 2x)

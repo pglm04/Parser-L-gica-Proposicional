@@ -1,0 +1,7 @@
+6
+true
+false
+(\neg false)
+(\wedge 1x 2y)
+(\vee (\neg 3a) 4b)
+(\rightarrow (\wedge (\neg 9k) 1b) (\leftrightarrow 2z 3y))

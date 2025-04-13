@@ -1,0 +1,5 @@
+4
+(\neg true)
+(\wedge \wedge 1a 2b)
+(\vee false (\neg 9z))
+(\rightarrow 1x (\leftrightarrow 2b true))
